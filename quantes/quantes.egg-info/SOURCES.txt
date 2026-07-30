@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+quantes/__init__.py
+quantes/admm.py
+quantes/composite.py
+quantes/config.py
+quantes/linear.py
+quantes/nonlinear.py
+quantes/solvers.py
+quantes/utils.py
+quantes.egg-info/PKG-INFO
+quantes.egg-info/SOURCES.txt
+quantes.egg-info/dependency_links.txt
+quantes.egg-info/requires.txt
+quantes.egg-info/top_level.txt

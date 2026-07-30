@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+qpsolvers
+cvxopt
+torch
+matplotlib
